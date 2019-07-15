@@ -1,0 +1,13 @@
+name: 'NoVillagerTrades'
+main: 'com.cjburkey.novillagertrades.NoVillagerTrades'
+authors:
+  - 'CJ Burkey'
+database: false
+prefix: 'NoVillagerTrades'
+version: '0.1.0'
+website: 'https://github.com/cjburkey01/no-villager-trades'
+
+permissions: 
+  novillagertrades.bypass:
+    description: 'Allow villager trades'
+    default: false
